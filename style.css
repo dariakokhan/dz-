@@ -1,0 +1,28 @@
+.menu-text{
+    display: block;
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(55, 114, 224);
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-family: 'Cairo', sans-serif;
+    border-left: 15px solid rgb(11, 48, 132);
+}
+
+
+.menu{
+    
+    height: 423px;
+    background-color: skyblue;
+    width: 500px;
+    font-family: 'Cairo', sans-serif;
+    
+}
+
+.menu-text:hover{
+    background-color:rgb(160, 160, 206);
+    color: azure;
+    border-left: 15px solid rgb(1, 150, 209);
+}
+
